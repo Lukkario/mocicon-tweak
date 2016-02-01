@@ -1,4 +1,5 @@
-mocicon-tweak is modified version of mocicon created by Calvin Morrison ( original code can be found here : https://github.com/mutantturkey/mocicon)
+mocicon-tweak is modified version of mocicon created by Calvin Morrison
+(original code can be found here : https://github.com/mutantturkey/mocicon)
 
 Made changes:
 - changed xterm to xfce4-terminal
